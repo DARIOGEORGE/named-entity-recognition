@@ -34,7 +34,7 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 ## PROGRAM
 ```
-Name: Dario G
+Name: DARIO G
 
 Reg. No: 212222230027.
 ```
